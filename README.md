@@ -6,6 +6,7 @@ AI-powered customer support solution leveraging Salesforce AI capabilities to au
 
 - AI Chat Interface
 - Knowledge Search
+- Lead Creation
 - Case Creation
 - Suggested Responses
 - Escalation Workflow
@@ -20,13 +21,7 @@ AI-powered customer support solution leveraging Salesforce AI capabilities to au
 
 ## Flow
 
-Customer Query
-↓
-AI Response
-↓
-Knowledge Search
-↓
-Case Creation
+Customer Query > AI Response > Knowledge Search > Case Creation
 
 ## Architecture
 
